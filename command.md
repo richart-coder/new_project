@@ -6,6 +6,15 @@ git add .
 git commit
 git help
 
-git restore --staged
-git log
+---
+
+git checkout
+
+- git switch
+- git restore
+  -staged
+
 git log --oneline
+
+git branch
+git branch -d
