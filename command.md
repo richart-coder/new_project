@@ -18,3 +18,4 @@ git log --oneline
 
 git branch
 git branch -d
+git merge
